@@ -1,2 +1,2 @@
 # ubiquitous-guacamole
-This is my cyber security project repo
+This is for cyber security info i've learned
